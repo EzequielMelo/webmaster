@@ -1,0 +1,28 @@
+body{
+  width: 70%;
+  margin:3% 20% auto 20%;
+}
+
+.content{
+  float: left;
+  border: solid;
+  width:
+  padding: 2%;
+
+}
+
+.icon{
+  background: rgb(27, 108, 228);
+  color: white;
+  text-align: center;
+  font-size: 6em;
+}
+
+.icon:hover{
+  background: red;
+  color: white;
+}
+
+h1{
+  text-align: center;
+}
